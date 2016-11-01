@@ -15,16 +15,9 @@ https://postimg.org/image/rm7uzsazh/
 
 <img src="Screen Shot 2016-11-01 at 5.31.47 PM.png" alt="Chart" style="width:304px;height:228px;">
 
-<a href="url">http://jsfiddle.net/p1q07dt0/</a>
+- Comparison of the incarceration rates in the US vs. other countries. Based on: The U.S. incarcerates its citizens at a rate six times higher than Canada, England, and France, seven times higher than Switzerland and Holland, and ten times Sweden and Finland. Visual reference:
 
-
-
-
-
-
-
-
-Comparison of the incarceration rates in the US vs. other countries. Based on: The U.S. incarcerates its citizens at a rate six times higher than Canada, England, and France, seven times higher than Switzerland and Holland, and ten times Sweden and Finland. Visual reference:
+<img src="Screen Shot 2016-11-01 at 5.31.46 PM.png" alt="Chart" style="width:304px;height:228px;">
 
 
 

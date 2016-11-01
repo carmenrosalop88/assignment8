@@ -18,15 +18,20 @@ I would like to visualize the following:
 <img src="Screen Shot 2016-11-01 at 5.32.46 PM.png" alt="Chart" style="width:304px;height:228px;">
 
 
+- Number of the total population in the US vs. the total number of incarcerated people
 
-Number of the total population in the US vs. the total number of incarcerated people
+<img src="Screen Shot 2016-11-01 at 5.33.46 PM.png" alt="Chart" style="width:304px;height:228px;">
 
-Number of the total population of White, African American and Hispanic in the US vs. their populations
+- Number of the total population of White, African American and Hispanic in the US vs. their populations
 
-Percentages of recidivism of ex-convicts back in the prison system. Visual reference:
+<img src="Screen Shot 2016-11-01 at 5.35.17 PM.png" alt="Chart" style="width:304px;height:228px;">
 
+- Percentages of recidivism of ex-convicts back in the prison system. Visual reference:
 
+<img src="Screen Shot 2016-11-01 at 5.42.19 PM.png" alt="Chart" style="width:304px;height:228px;">
 
-% of attainment of jobs after incarceration. Visual reference:
+- % of attainment of jobs after incarceration. Visual reference:
+
+<img src="Screen Shot 2016-11-01 at 5.32.46 PM.png" alt="Chart" style="width:304px;height:228px;">
 
 

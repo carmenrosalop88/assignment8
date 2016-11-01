@@ -13,7 +13,7 @@ I would like to visualize the following:
 
 https://postimg.org/image/rm7uzsazh/
 
-<img src="chart.jpeg" alt="Chart" style="width:304px;height:228px;">
+<img src="Screen Shot 2016-11-01 at 5.31.47 PM.png" alt="Chart" style="width:304px;height:228px;">
 
 <a href="url">http://jsfiddle.net/p1q07dt0/</a>
 

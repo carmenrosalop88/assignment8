@@ -11,13 +11,11 @@ And stylistically inspired on this article: [Motorcycle Deaths] (http://www.nyti
 I would like to visualize the following:
 - Incarceration rates increase after 1975 and until now. Visual reference:
 
-https://postimg.org/image/rm7uzsazh/
-
 <img src="Screen Shot 2016-11-01 at 5.31.47 PM.png" alt="Chart" style="width:304px;height:228px;">
 
 - Comparison of the incarceration rates in the US vs. other countries. Based on: The U.S. incarcerates its citizens at a rate six times higher than Canada, England, and France, seven times higher than Switzerland and Holland, and ten times Sweden and Finland. Visual reference:
 
-<img src="Screen Shot 2016-11-01 at 5.32.46 PM" alt="Chart" style="width:304px;height:228px;">
+<img src="Screen Shot 2016-11-01 at 5.32.46 PM.png" alt="Chart" style="width:304px;height:228px;">
 
 
 
